@@ -1,4 +1,4 @@
-* https://raw.githubusercontent.com/leosam1995/My_ACL_Rules/master/banAD.acl
+* https://raw.staticdn.net/leosam1995/My_ACL_Rules/master/banAD.acl
 * @leosam1995
 # 更新历史：
 

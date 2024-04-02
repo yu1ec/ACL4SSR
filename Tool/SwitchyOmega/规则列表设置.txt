@@ -1,4 +1,4 @@
-¹æÔòÁĞ±í¸ñÊ½£ºAutoProxy
-¹æÔòÁĞ±íÍøÖ·£¨ĞÂ£©£ºhttps://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
-¹æÔòÁĞ±íÍøÖ·£¨¾É£©£ºhttps://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
+ï¿½ï¿½ï¿½ï¿½ï¿½Ğ±ï¿½ï¿½ï¿½Ê½ï¿½ï¿½AutoProxy
+ï¿½ï¿½ï¿½ï¿½ï¿½Ğ±ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½Â£ï¿½ï¿½ï¿½https://raw.staticdn.net/gfwlist/gfwlist/master/gfwlist.txt
+ï¿½ï¿½ï¿½ï¿½ï¿½Ğ±ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½É£ï¿½ï¿½ï¿½https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 
